@@ -1,0 +1,117 @@
+[
+	{
+		"name" : "JS",
+		"East": {
+			"1": "Cleveland",
+			"2": "Chicago",
+			"3": "Atlanta",
+			"4": "Miami",
+			"5": "Washington",
+			"6": "Toronto",
+			"7": "Milwaukee",
+			"8": "Boston"
+		},
+		"West": {
+			"1": "Golden State",
+			"2": "Oklahoma City",
+			"3": "LA Clippers",
+			"4": "San Antonio",
+			"5": "Houston",
+			"6": "Memphis",
+			"7": "Utah",
+			"8": "New Orleans"
+		}
+	},
+	{
+		"name" : "Alex",
+		"East": {
+			"1": "Chicago",
+			"2": "Cleveland",
+			"3": "Atlanta",
+			"4": "Toronto",
+			"5": "Miami",
+			"6": "Washington",
+			"7": "Milwaukee",
+			"8": "Boston"
+		},
+		"West": {
+			"1": "Golden State",
+			"2": "Oklahoma City",
+			"3": "LA Clippers",
+			"4": "San Antonio",
+			"5": "Houston",
+			"6": "Memphis",
+			"7": "New Orleans",
+			"8": "Utah"
+		}
+	},
+	{
+		"name" : "Aurelien",
+		"East": {
+			"1": "Cleveland",
+			"2": "Atlanta",
+			"3": "Chicago",
+			"4": "Miami",
+			"5": "Toronto",
+			"6": "Washington",
+			"7": "Boston",
+			"8": "Indiana"
+		},
+		"West": {
+			"1": "Golden State",
+			"2": "San Antonio",
+			"3": "LA Clippers",
+			"4": "Oklahoma City",
+			"5": "Houston",
+			"6": "Memphis",
+			"7": "Utah",
+			"8": "Sacramento"
+		}
+	},
+	{
+		"name" : "Seb",
+		"East": {
+			"1": "Chicago",
+			"2": "Miami",
+			"3": "Cleveland",
+			"4": "Washington",
+			"5": "Atlanta",
+			"6": "Boston",
+			"7": "Toronto",
+			"8": "Milwaukee"
+		},
+		"West": {
+			"1": "Golden State",
+			"2": "San Antonio",
+			"3": "Oklahoma City",
+			"4": "LA Clippers",
+			"5": "Houston",
+			"6": "New Orleans",
+			"7": "Memphis",
+			"8": "Sacramento"
+		}
+	},
+	{
+		"name" : "Wel",
+		"East": {
+			"1": "Cleveland",
+			"2": "Miami",
+			"3": "Chicago",
+			"4": "Atlanta",
+			"5": "Washington",
+			"6": "Milwaukee",
+			"7": "Boston",
+			"8": "Toronto"
+		},
+		"West": {
+			"1": "LA Clippers",
+			"2": "San Antonio",
+			"3": "Golden State",
+			"4": "Oklahoma City",
+			"5": "Houston",
+			"6": "Memphis",
+			"7": "New Orleans",
+			"8": "Utah"
+		}
+	}
+]

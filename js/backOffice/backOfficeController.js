@@ -1,0 +1,3 @@
+ruinard.controller('backOfficeController',function(){
+	
+});

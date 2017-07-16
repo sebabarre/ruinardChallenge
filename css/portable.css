@@ -1,0 +1,10 @@
+@media screen and (max-device-width:640px) {
+
+	body{font-size: 5vw;}
+
+	.pronos .playerName {font-size: 80%;}
+	.pronos .playerProno {font-size: 30%;}
+	.send {font-size: 50%;}
+
+    .container {width:100%;}
+}

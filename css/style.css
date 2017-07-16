@@ -1,0 +1,64 @@
+body {
+	background: url('../img/agegate_1680x1050.jpg') repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: Georgia,serif;
+}
+
+
+.jumbotron {background-color: transparent; border : none;}
+
+.imgPort {display:none;}
+
+.winlosses {position:absolute; right:15%;}
+.nbPoint{position:absolute; right:30%}
+
+.panel-title{font-style: italic; border-bottom: 1px solid #b2b2b2;}
+.panel-body{}
+
+.line-separator{height: 1px; background: #b2b2b2; border-bottom: 1px solid #b2b2b2; margin:10px 0px;}
+
+.classementProno {width:250px; margin:0 auto;}
+
+.gameResult {display:inline-block; padding-left: 5px; margin-bottom: 1%; border-left:1px solid #b2b2b2;}
+.gameResult .score {margin-left:8%;}
+
+ul {width:80%; margin:0 auto;}
+li {list-style-type: none;}
+
+img {margin: 0 auto;}
+
+.player{display: inline-block;}
+.good {color:green; font-weight: bolder;}
+.almostGood {color: #D07A3D; font-weight: bold;}
+
+.team { margin: 0 0 4% 0; }
+.team div { padding-left: 0; }
+.standings ul{ width: 100%; margin: 0; padding: 0; }
+
+
+body{font-size: small;}
+.container, .panel-body, .jumbotron, p, .list-group, .winlosses{font-size: 100%;}
+.panel-heading{font-size:100%;}
+.panel-title{font-size:130%;}
+.jumbotron p {font-size: 150%;}
+.boxscore {font-size: 120%;}
+.textXXXLarge {font-size: 400%;}
+.textXXLarge {font-size: 300%;}
+.textXLarge {font-size: 200%;}
+.textLarge {font-size: 150%;}
+.textMedium {font-size: 125%;}
+.textNormal {font-size: 100%;}
+.textSmall {font-size: 75%;}
+.textMini {font-size: 50%;}
+.pronos .playerName {font-size: 200%;}
+.pronos .playerProno {font-size: 125%;}
+.send {font-size:100%;}
+h5{font-size:110%;}
+h4{font-size:120%;}
+h3{font-size:130%;}
+h2{font-size:140%;}
+h1{font-size:150%;}
+
