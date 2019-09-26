@@ -23,7 +23,7 @@ ruinard.factory('nbaStanding', function($http) {
 
 	};
 
-	// getPronoRanking()
+	getPronoRanking()
 	getCurrentConferenceStanding();
 	return standing;
 });

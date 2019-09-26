@@ -41,9 +41,9 @@
 					<div class="panel-heading">
 						<span class="panel-title">Classement conférence Ouest</span>
 					</div>
-					<div class="row textNormal team" ng-repeat="team in main.westStanding" ng-if="team.conference_seed">
-						<div class="col-xs-10 col-md-8">{{team.conference_seed}} {{team.team.full_name}}</div>
-						<div class="col-xs-2 col-md-4">{{team.wins}}-{{team.losses}}</div>
+					<div class="row textNormal team" ng-repeat="team in main.west">
+                        <div class="col-xs-10 col-md-8">{{team.ranking}}. {{team.teamName}}</div>
+                        <div class="col-xs-2 col-md-4">{{team.win}} - {{team.losses}}</div>
 					</div>
 				</div>
 			</div>
