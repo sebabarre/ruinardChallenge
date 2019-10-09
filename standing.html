@@ -69,32 +69,3 @@
 					</div>
 				</div>
 			</div>
-
-			<div class="line-separator"></div>
-
-			<div class="container">
-				<div class="row">
-					<div class="col-md-6">
-						<!-- NEW COMMENT -->
-						<div class="panel panel-success textNormal">
-							<div class="panel-heading">
-								<input type="text" class="form-control input-lg" placeholder="Prénom" aria-describedby="basic-addon1" ng-model="main.inputName" required>
-							</div>
-							<div class="panel-body">
-								<textarea class="form-control input-lg" placeholder="Commentaire" aria-describedby="basic-addon1" ng-model="main.inputComment" required></textarea>
-								<button type="button" class="btn btn-success pull-right send" ng-click="main.addComment()" ng-disabled="!main.inputName || !main.inputComment">Envoyer</button>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-6">
-						<!-- COMMENTS -->
-						<div class="panel panel-default" ng-repeat="comment in main.comments">
-							<div class="panel-heading">{{comment.user}}<span class="label label-default pull-right">{{comment.date | date:'d/M/yy HH:mm'}}</span></div>
-							<div class="panel-body">
-								{{comment.comment}}
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
