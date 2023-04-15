@@ -8,7 +8,7 @@ ruinard.factory('nbaStanding', function($http) {
 	const getPronoRanking = function () {
 		$http({
 			method: 'GET',
-			url: 'https://sebabarre.usw1.kubesail.io/pronos'
+			url: 'http://localhost:7777/pronos'
 		}).success(function (data, status) {
 
 			for (let i = 0; i < data.length; i++) {
